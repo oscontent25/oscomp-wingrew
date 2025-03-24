@@ -5,7 +5,7 @@
 #[macro_use]
 extern crate log;
 extern crate alloc;
-
+use axstd::println;
 mod ctypes;
 
 mod mm;
